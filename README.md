@@ -10,7 +10,11 @@ Before running the application, ensure you have the following dependencies insta
 - scikit-learn
 - pandas
 
-  
+# Dataset
+download the news.csv by following url.
+```bash
+https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
+```
 You can install these dependencies using pip:
 ```bash
   pip install Flask scikit-learn pandas
